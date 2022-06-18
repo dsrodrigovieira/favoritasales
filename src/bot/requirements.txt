@@ -1,0 +1,5 @@
+Flask==2.1.1
+pandas==1.4.2
+requests==2.27.1
+ipython==8.2.0
+Pillow==9.1.0
