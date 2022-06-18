@@ -1,4 +1,4 @@
-# Favorita Sales Prediction
+# [Favorita Sales Prediction](https://t.me/favoritasales_bot)
 
 ## Neste projeto utilizo conceitos da estatística e Machine Learning para construir uma ferramenta de previsão de vendas mais acurada.
 
