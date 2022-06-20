@@ -4,7 +4,7 @@ import requests
 import json
 import os
 
-TOKEN = '5292689812:AAH7h_Qlk3Hep9zLFgI84QsWLHGn6SjLBlo'
+TOKEN = ''
 REPLY_OPTIONS = ('See details','Search other store', 'Leave')
 
 def get_message():
