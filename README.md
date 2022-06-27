@@ -86,7 +86,7 @@ Construir uma API para disponibilizar o acesso à previsão de vendas a partir d
 - A XGBoost se mostrou a melhor escolha para este projeto de previsão. Apesar de apresentar uma acurácia ligeiramente menor do que a Random Forest na fase de testes, a XGBoost performa melhor com menos recursos, garantindo que a solução não se torne muito cara para implementar e manter.
 
 # 9. Lessons Learned
-Pensando em Ciência de Dados, muito se discute sobre a escolha do algoritmo de Machine Learning mais adequado à necessidade do cliente. No entando, neste primeiro projeto treinando e aplicando um modelo, percebo que o cerne do processo está na capacidade analítica de quem o conduz. A etapa de Análise Exploratória de Dados (EDA) é crucial, e não por acaso a que mais demanda tempo do cientista de dados. Nela podemos aprofundar nosso conhecimento sobre o negócio, gerar insights valiosos, identificar fraquezas e potenciais que por si só podem causar tanto impacto quanto o produto final.
+- Pensando em Ciência de Dados, muito se discute sobre a escolha do algoritmo de Machine Learning mais adequado à necessidade do cliente. No entando, neste primeiro projeto treinando e aplicando um modelo, percebo que o cerne do processo está na capacidade analítica de quem o conduz. A etapa de Análise Exploratória de Dados (EDA) é crucial, e não por acaso a que mais demanda tempo do cientista de dados. Nela podemos aprofundar nosso conhecimento sobre o negócio, gerar insights valiosos, identificar fraquezas e potenciais que por si só podem causar tanto impacto quanto o produto final.
 
 # 10. Next Steps to Improve
 - Criar um dashboard com mais detalhes sobre os valores previstos
